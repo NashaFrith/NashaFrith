@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**NashaFrith/NashaFrith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nasha, nice to meet you!
+Right now, I am working on
+- A school based application
+- A machine learning project
+- Some minigames/game solvers
+- My personal website
 
-Here are some ideas to get you started:
+Feel free to reach out if you'd like to connect.
+I really like...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI
+- Automation
+- Cloud Computing
+- Cooking
+- Data Science
+- Games (video games, sports, board games, etc)
+- Gardening
+- Learning
+- Machine Learning
+- Robotics
+
+...so if your project is in one of those areas, I would love to collab :)
